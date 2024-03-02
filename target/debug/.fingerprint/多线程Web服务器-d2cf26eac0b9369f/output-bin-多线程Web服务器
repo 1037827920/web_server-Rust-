@@ -1,0 +1,1 @@
+{"message":"crate name `多线程Web服务器` passed to `--extern` is not a valid ASCII identifier","code":null,"level":"error","spans":[],"children":[],"rendered":"\u001b[0m\u001b[1m\u001b[38;5;9merror\u001b[0m\u001b[0m\u001b[1m\u001b[38;5;15m: crate name `多线程Web服务器` passed to `--extern` is not a valid ASCII identifier\u001b[0m\n\n"}
